@@ -1,7 +1,7 @@
 [🇬🇧 English](#-english) • [🇹🇷 Türkçe](#-türkçe)
 
 # 🇬🇧 English
-# Hello 👋, I'm Yunus Emre Ak
+# Hello 👋, I'm Yunus Emre
 
 I'm interested in computer programming, mathematics, and open-source projects.
 
@@ -10,7 +10,6 @@ I'm interested in computer programming, mathematics, and open-source projects.
 - 🐍 Learning Python and building projects.
 - 🌐 Working with web technologies.
 - 📚 Developing projects focused on teaching mathematics and programming.
-- 🎨 Occasionally creating pixel art and digital illustrations.
 
 ## 🛠️ Technologies I Use
 
@@ -34,7 +33,7 @@ I'm interested in computer programming, mathematics, and open-source projects.
 ---
 # 🇹🇷 Türkçe
 
-# Merhaba 👋, ben Yunus Emre Ak
+# Merhaba 👋, ben Yunus Emre
 
 Bilgisayar programlama, matematik ve açık kaynak projelerle ilgileniyorum.
 
@@ -43,7 +42,6 @@ Bilgisayar programlama, matematik ve açık kaynak projelerle ilgileniyorum.
 - 🐍 Python öğreniyor ve projeler geliştiriyorum.
 - 🌐 Web teknolojileri ile uğraşıyorum.
 - 📚 Matematik ve programlamayı öğretmeye yönelik projeler üzerinde çalışıyorum.
-- 🎨 Zaman zaman pixel art ve dijital çizim yapıyorum.
 
 ## 🛠️ Kullandığım Teknolojiler
 
