@@ -1,5 +1,6 @@
 [🇬🇧 English](#-english) • [🇹🇷 Türkçe](#-türkçe)
 
+# 🇬🇧 English
 # Hello 👋, I'm Yunus Emre Ak
 
 I'm interested in computer programming, mathematics, and open-source projects.
@@ -15,7 +16,7 @@ I'm interested in computer programming, mathematics, and open-source projects.
 
 - Python
 - HTML, CSS, JavaScript
-- Git & GitHub
+- C & C++
 - Linux
 
 ## 📌 Currently
@@ -26,19 +27,12 @@ I'm interested in computer programming, mathematics, and open-source projects.
 
 ## 📫 Contact
 
-- GitHub: https://github.com/yuak42
-
----
+- GitHub: yeak558@gmail.com
 
 ⭐ I enjoy learning new things and creating useful projects.
 
-
-
-
-
-
-
-
+---
+# 🇹🇷 Türkçe
 
 # Merhaba 👋, ben Yunus Emre Ak
 
@@ -55,7 +49,7 @@ Bilgisayar programlama, matematik ve açık kaynak projelerle ilgileniyorum.
 
 - Python
 - HTML, CSS, JavaScript
-- Git & GitHub
+- C & C++
 - Linux
 
 ## 📌 Şu Sıralar
@@ -64,9 +58,9 @@ Bilgisayar programlama, matematik ve açık kaynak projelerle ilgileniyorum.
 - Web geliştirme üzerine çalışıyorum.
 - Açık kaynak projeler keşfediyorum.
 
-## 📫 Bana Ulaşın
+## 📫 İletişim
 
-- GitHub: https://github.com/yuak42
+- GitHub: yeak558@gmail.com
 
 ---
 
