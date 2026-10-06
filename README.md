@@ -1,3 +1,6 @@
+Websites:
+- Personal Interest [yunemak](https://yunemak.github.io)
+- 42 Related Projects [yuak42](https://yuak42.github.io)
 [🇬🇧 English](#-english) • [🇹🇷 Türkçe](#-türkçe)
 
 # 🇬🇧 English
